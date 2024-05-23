@@ -1,0 +1,70 @@
+{
+    "appTitle": "Credit Card Validator",
+    "@appTitle": {
+        "description": "Title of the application."
+    },
+    "appLabel": "Open the drawer",
+    "@appLabel": {
+        "description": "Label of the application."
+    },
+    "enterCardDetails": "Enter your card details.",
+    "@enterCardDetails": {
+        "description": "Label for entering card details."
+    },
+    "cardNumber": "Card number",
+    "@cardNumber": {
+        "description": "Label for card number text field."
+    },
+    "expiryDate": "Expiry date",
+    "@expiryDate": {
+        "description": "Label for expiry date text field."
+    },
+    "cvv": "CVV",
+    "@cvv": {
+        "description": "Label for CVV text field."
+    },
+    "cardHolderName": "Card holder name",
+    "@cardHolderName": {
+        "description": "Label for card holder name text field."
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Label for saving data."
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Label for canceling actions."
+    },
+    "invalidCardNumber": "Please enter valid credit card number.",
+    "@invalidCardNumber": {
+        "description": "Label for invalid credit card number input."
+    },
+    "invalidExpiryDate": "Please enter valid expiry date.",
+    "@invalidExpiryDate": {
+        "description": "Label for invalid credit card expiration date input."
+    },
+    "invalidCvv": "Please enter valid CVV code.",
+    "@invalidCvv": {
+        "description": "Label for invalid credit card CVV code input."
+    },
+    "invalidCardHolderName": "Please enter valid card holder name. Use letters (A-Z, a-z), spaces, periods, hyphens, or apostrophes only. Avoid special characters or numbers.",
+    "@invalidCardHolderName": {
+        "description": "Label for invalid credit card holder name input."
+    },
+    "cardSaveSuccess": "Card details saved successfully.",
+    "@cardSaveSuccess": {
+        "description": "Label for saving credit card information (success)."
+    },
+    "serverFailureMessage": "Server error occured. Please try again.",
+    "@serverFailureMessage": {
+        "description": "Message shown when server failure occurs."
+    },
+    "timeoutFailureMessage": "Time out occurred while processing your request. Please try again later.",
+    "@timeoutFailureMessage": {
+        "description": "Message shown when the request times out."
+    },
+    "unknownFailureMessage": "Unknown error occured. Please try again.",
+    "@unknownFailureMessage": {
+        "description": "Message shown when unknown failure occurs."
+    }
+}
