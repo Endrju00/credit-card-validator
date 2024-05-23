@@ -1,0 +1,6 @@
+{
+    "cardNumber": "1234 1234 1234 1234",
+    "cardHolder": "John Doe",
+    "expiryDate": "2024-12-31T23:59:59.000",
+    "cvv": "123"
+}
