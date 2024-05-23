@@ -57,7 +57,7 @@ The architecture of the mobile application is presented in the diagram below:
 ### Project File Structure
 * `assets/`
   * `images` - directory for images.
-  * `json/<nazwa_endpointu>/` - directories for storing server mock responses.
+  * `json/<endpoint_name>/` - directories for storing server mock responses.
 * `env` - directory with information about the environments used by the application.
 * `integration_test/` - directory for integration tests.
 * `lib/`
