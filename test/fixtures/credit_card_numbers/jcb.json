@@ -1,0 +1,242 @@
+[
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3158717929047358
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3088218132240893
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3096833145894492
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3528188777809229
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3528698115528786
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3112785046416645
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3528892039903759
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3096822670112834
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3112561733599021
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3528928437621161
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3158239559863616
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3337187051019928
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3337924334474896
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3337917188478963
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3096400567942405
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3337582075187869
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3088287238230405
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3112192100245830
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3158650160413064
+      }
+    },
+    {
+      "CreditCard": {
+        "IssuingNetwork": "JCB",
+        "CardNumber": 3112940046258964
+      }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210099132057827
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180072677325681
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210002326079441
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210029596312210
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210076421682036
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180020397171893
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210047406181070
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180055027515705
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180067729730177
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180012093211479
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210007496910465
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180022533324659
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210074795447656
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180006556059771
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210091732453779
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180070060710881
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210040865192209
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210099358217022
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 180059630675393
+        }
+    },
+    {
+        "CreditCard": {
+        "IssuingNetwork": "JCB 15 digit",
+        "CardNumber": 210025089948171
+        }
+    }
+]
