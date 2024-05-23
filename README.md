@@ -1,5 +1,5 @@
 # Credit card validator
-The main goal for creating this project was to implement a card validator using Clean Architecture & TDD. An equally important task was to create a server mock that would enable the use of the application without a backend.
+The primary objective of this project was to develop a robust card validator utilizing Clean Architecture principles and Test-Driven Development (TDD). Additionally, a key goal was to create a comprehensive server mock, allowing the application to function seamlessly without reliance on a backend. This setup ensures that the application can be tested and demonstrated in a fully self-contained environment.
 
 ## Launch Instructions
 
